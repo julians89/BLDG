@@ -4,10 +4,10 @@ BLENDER="blender"
 BRIDGE="blender_bridge.py"
 OUT_BASE="./out_dataset"
 MESHES={
-    #"box":"./meshes/box.ply",
-    "a320":"./meshes/737_500.stl",
-    "a320":"./meshes/a319_ceo.stl",
-    "a320":"./meshes/a380.stl",
+    "box":"./meshes/box.ply",
+    #"a320":"./meshes/737_500.stl",
+    #"a320":"./meshes/a319_ceo.stl",
+    #"a320":"./meshes/a380.stl",
 }
 
 # Sampling grids

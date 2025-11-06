@@ -1,2 +1,3 @@
-meshes/
+meshes/*
+!meshes/box.ply
 out_dataset/
